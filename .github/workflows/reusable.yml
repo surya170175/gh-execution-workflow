@@ -5,4 +5,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: output-information
-        run: echo "This is being used from other workflow"
+        run: echo "Deploying and uploading......."
